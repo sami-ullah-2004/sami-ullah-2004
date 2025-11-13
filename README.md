@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->
+<!-- ================= PROFILE HEADER ================= -->
 <div align="center">
   <img src="Sami-Logo.png" 
        alt="Muhammad Sami Ullah" 
@@ -10,14 +10,15 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <div align="center" style="margin-bottom:20px;">
-  <a href="https://linkedin.com/in/muhammad-sami-ullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sami-ullah-04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sami.ullah2004@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sami-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/samiullahdev" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sami-ullah2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sami-ullah-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="Sami.Ullah2004@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="-----" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://wa.me/03709207207" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="-----" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </div>
 <br>
+<!-- ================= ABOUT ================= -->
 <p align="justify">
 Hi, I'm <b>Muhammad Sami Ullah</b> — a passionate Freelance <b>Web Developer & Designer</b> specializing in <b>WordPress</b>, <b>Shopify</b>, and <b>custom-coded</b> websites.  
 I create fast, responsive, and SEO-friendly websites that help brands stand out and turn visitors into loyal customers.  
@@ -26,8 +27,9 @@ Whether you need a modern business site or a high-converting eCommerce store, I 
 Let’s work together to bring your vision online and grow your digital presence 🚀
 </p>
 
----
+<hr>
 
+<!-- ================= SKILLS & TECHNOLOGIES ================= -->
 <h3 align="center">Skills & Technologies</h3>
 <br>
 <div align="center" style="margin-bottom:20px;">
@@ -55,8 +57,9 @@ Let’s work together to bring your vision online and grow your digital presence
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
 </div>
 
----
+<hr>
 
+<!-- ================= TOOLS ================= -->
 <h3 align="center">Tools I Use</h3>
 <br>
 <div align="center" style="margin-bottom:30px;">
@@ -77,13 +80,14 @@ Let’s work together to bring your vision online and grow your digital presence
   <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" height="40" alt="XAMPP" />
 </div>
 
----
+<hr>
 
-<h3 align="center"> Top Repositories</h3>
+<!-- ================= TOP PROJECTS ================= -->
+<h3 align="center">Top Projects</h3>
 <br>
-<table align="center" style="width:100%; max-width:800px; border-spacing:20px;">
+<table align="center" style="width:100%; max-width:900px; border-spacing:20px;">
   <tr>
-    <td align="center" style="padding:0;">
+    <td align="center" style="padding:0; width:50%;">
       <a href="https://github.com/sami-ullah-2004/SolarSystem" style="text-decoration:none;">
         <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.3); text-align:center;">
           <img src="Skywings.png" alt="Solar System" style="width:100%; border-radius:10px; margin-bottom:8px;" />
@@ -93,11 +97,11 @@ Let’s work together to bring your vision online and grow your digital presence
       </a>
     </td>
 
-  <td align="center" style="padding:0;">
+  <td align="center" style="padding:0; width:50%;">
       <a href="https://github.com/sami-ullah-2004/FitnessPoint" style="text-decoration:none;">
         <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.3); text-align:center;">
           <img src="Portfolio.png" alt="Portfolio" style="width:100%; border-radius:10px; margin-bottom:8px;" />
-          <h4 style="margin:5px 0; font-size:16px; color:white;">Sami Ullah</h4>
+          <h4 style="margin:5px 0; font-size:16px; color:white;">Sami Ullah Portfolio</h4>
           <p style="margin:5px 0; font-size:13px; color:white;">Portfolio website showcasing skills, projects & contact info.</p>
         </div>
       </a>
@@ -105,7 +109,7 @@ Let’s work together to bring your vision online and grow your digital presence
   </tr>
 
   <tr>
-    <td align="center" style="padding:0;">
+    <td align="center" style="padding:0; width:50%;">
       <a href="https://github.com/sami-ullah-2004/AnotherRepo1" style="text-decoration:none;">
         <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.3); text-align:center;">
           <img src="FitnessPoint.jpeg" alt="Another Repo 1" style="width:100%; border-radius:10px; margin-bottom:8px;" />
@@ -115,7 +119,7 @@ Let’s work together to bring your vision online and grow your digital presence
       </a>
     </td>
 
-  <td align="center" style="padding:0;">
+   <td align="center" style="padding:0; width:50%;">
       <a href="https://github.com/sami-ullah-2004/AnotherRepo2" style="text-decoration:none;">
         <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:100%; box-shadow:0 4px 8px rgba(0,0,0,0.3); text-align:center;">
           <img src="SolarSystem.jpeg" alt="Another Repo 2" style="width:100%; border-radius:10px; margin-bottom:8px;" />
@@ -127,9 +131,10 @@ Let’s work together to bring your vision online and grow your digital presence
   </tr>
 </table>
 
----
+<hr>
 
+<!-- ================= CALL TO ACTION ================= -->
 <h3 align="center">✨ Let's Build Something Great Together!</h3>
 <p align="center">
-Please feel free to reach out to me. I’m always open to new opportunities and collaborations.
+Feel free to reach out to me. I’m always open to new opportunities and collaborations.
 </p>
