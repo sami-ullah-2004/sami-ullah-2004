@@ -93,27 +93,57 @@ Let’s work together to bring your vision online and grow your digital presence
 
 <h3 align="center">🚀 Top Repositories</h3>
 
-<p align="center">
-  <!-- Repository 1 -->
-  <a href="https://github.com/sami-ullah-2004/SolarSystem" style="text-decoration:none;">
-    <span style="display:inline-block; margin:10px; padding:10px; border-radius:12px; background-color:#1e1e1e; box-shadow:0 4px 8px rgba(0,0,0,0.3); color:white; width:220px; text-align:center;">
-      <img src="https://raw.githubusercontent.com/sami-ullah-2004/SolarSystem/main/SolarSystem.jpeg" alt="Solar System" style="width:200px; border-radius:8px; margin-bottom:8px;" />
-      <h4 style="margin:5px 0; font-size:16px;">Solar System</h4>
-      <p style="margin:5px 0; font-size:13px;">Interactive Solar System project</p>
-      <p style="margin:5px 0; font-size:12px;">⭐ 12 | 🍴 4</p>
-    </span>
-  </a>
+<table align="center" style="width:100%; max-width:800px;">
+  <tr>
+    <td align="center" style="padding:10px; width:50%;">
+      <a href="https://github.com/sami-ullah-2004/SolarSystem" style="text-decoration:none;">
+        <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:95%; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+          <img src="Skywings.png" alt="Solar System" style="width:100%; border-radius:10px; margin-bottom:8px;" />
+          <h4 style="margin:5px 0; font-size:16px; color:white;">Solar System</h4>
+          <p style="margin:5px 0; font-size:13px; color:white;">Interactive Solar System project</p>
+          <p style="margin:5px 0; font-size:12px; color:white;">⭐ 12 | 🍴 4</p>
+        </div>
+      </a>
+    </td>
 
-  <!-- Repository 2 -->
-  <a href="https://github.com/sami-ullah-2004/FitnessPoint" style="text-decoration:none;">
-    <span style="display:inline-block; margin:10px; padding:10px; border-radius:12px; background-color:#1e1e1e; box-shadow:0 4px 8px rgba(0,0,0,0.3); color:white; width:220px; text-align:center;">
-      <img src="https://raw.githubusercontent.com/sami-ullah-2004/FitnessPoint/main/FitnessPoint.jpeg" alt="Fitness Point" style="width:200px; border-radius:8px; margin-bottom:8px;" />
-      <h4 style="margin:5px 0; font-size:16px;">Fitness Point</h4>
-      <p style="margin:5px 0; font-size:13px;">Fitness web app with exercises tracker</p>
-      <p style="margin:5px 0; font-size:12px;">⭐ 10 | 🍴 3</p>
-    </span>
-  </a>
-</p>
+  <td align="center" style="padding:10px; width:50%;">
+      <a href="https://github.com/sami-ullah-2004/FitnessPoint" style="text-decoration:none;">
+        <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:95%; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+          <img src="Portfolio.png" style="width:100%; border-radius:10px; margin-bottom:8px;" />
+          <h4 style="margin:5px 0; font-size:16px; color:white;">Fitness Point</h4>
+          <p style="margin:5px 0; font-size:13px; color:white;">Fitness web app with exercises tracker</p>
+          <p style="margin:5px 0; font-size:12px; color:white;">⭐ 10 | 🍴 3</p>
+        </div>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding:10px; width:50%;">
+      <a href="https://github.com/sami-ullah-2004/AnotherRepo1" style="text-decoration:none;">
+        <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:95%; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+          <img src="FitnessPoint.jpeg" alt="Another Repo 1" style="width:100%; border-radius:10px; margin-bottom:8px;" />
+          <h4 style="margin:5px 0; font-size:16px; color:white;">Another Repo 1</h4>
+          <p style="margin:5px 0; font-size:13px; color:white;">Description of project 1</p>
+          <p style="margin:5px 0; font-size:12px; color:white;">⭐ X | 🍴 X</p>
+        </div>
+      </a>
+    </td>
+
+   <td align="center" style="padding:10px; width:50%;">
+      <a href="https://github.com/sami-ullah-2004/AnotherRepo2" style="text-decoration:none;">
+        <div style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:95%; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+          <img src="SolarSystem.jpeg" alt="Another Repo 2" style="width:100%; border-radius:10px; margin-bottom:8px;" />
+          <h4 style="margin:5px 0; font-size:16px; color:white;">Another Repo 2</h4>
+          <p style="margin:5px 0; font-size:13px; color:white;">Description of project 2</p>
+          <p style="margin:5px 0; font-size:12px; color:white;">⭐ X | 🍴 X</p>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <h3 align="center">📈 Additional Metrics</h3>
